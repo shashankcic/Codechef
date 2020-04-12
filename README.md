@@ -2,4 +2,6 @@
 
 This is the repository for my solutions to the Codechef challenges.
 
-1. April Long Challenge
+## April Long Challenge
+1) COVID Pandemic and Long Queue - COVIDLQ
+
