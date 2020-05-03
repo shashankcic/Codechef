@@ -8,3 +8,5 @@ This is the repository for my solutions to the Codechef challenges.
 3) Strange Numbers - STRNO - C++ Solution
 4) Unit GCD - UNITGCD - C++ Solution
 4) Squared Subsequences - SQRDSUB - C++ Solution
+
+## April Lunchtime Challenge 
