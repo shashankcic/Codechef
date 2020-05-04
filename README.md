@@ -10,3 +10,5 @@ This is the repository for my solutions to the Codechef challenges.
 4) Squared Subsequences - SQRDSUB - C++ Solution
 
 ## April Lunchtime Challenge 
+
+## May Long Challenge
