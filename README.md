@@ -10,9 +10,9 @@ This is the repository for my solutions to the Codechef challenges.
 4) Squared Subsequences - SQRDSUB - C++ Solution
 
 ## April Cook off Challenge
-1) Lift Requests - LIFTME
+1) Lift Requests - LIFTME - C++ Solution
 
 ## April Lunchtime Challenge 
-1) Chef in Fantasy League - FFL
+1) Chef in Fantasy League - FFL - C++ Solution
 
 ## May Long Challenge
