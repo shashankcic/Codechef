@@ -16,3 +16,4 @@ This is the repository for my solutions to the Codechef challenges.
 1) Chef in Fantasy League - FFL - C++ Solution
 
 ## May Long Challenge
+1) Coronavirus Spread - COVID19
