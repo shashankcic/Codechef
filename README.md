@@ -17,3 +17,4 @@ This is the repository for my solutions to the Codechef challenges.
 
 ## May Long Challenge
 1) Coronavirus Spread - COVID19 - C++ Solution
+2) Isolation Centres - CORUS - C++
